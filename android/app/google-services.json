@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531556915658",
+    "project_id": "tech-interview-dd80b",
+    "storage_bucket": "tech-interview-dd80b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531556915658:android:84866a7d03afddd65b1733",
+        "android_client_info": {
+          "package_name": "com.example.itemstorage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0myjmsBfLVbDUciZpjE6VWrnzEph6wbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
