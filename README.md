@@ -43,13 +43,17 @@ This test evaluates your ability to:
 - **Update the AddItemDialog** to include category input
 - Categories should be stored and retrieved from Firestore
 
-#### 5. Web Accessibility
-- **Make all text selectable** using mouse (web-focused app)
-- Ensure proper web user experience
+#### 5. Favorite functionality
+- Items can be marked as favorite or removed from favorites
+
 
 ### Bonus Functionality (If time permits)
 
-#### 6. Category Filtering
+#### 6. Web Accessibility
+- **Make all text selectable** using mouse (web-focused app)
+- Ensure proper web user experience
+
+#### 7. Category Filtering
 - Implement filtering options based on categories
 - Allow users to filter items by selected categories
 - Provide clear UI for filter controls
