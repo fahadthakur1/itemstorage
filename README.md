@@ -138,9 +138,6 @@ The ItemCard should display:
 ### Real-time Updates
 Implement using Firestore streams.
 
-### Web Text Selectability
-Ensure all text components in the app are selectable.
-
 ## ✅ Evaluation Criteria
 
 ### Core Requirements (Must Have)
@@ -150,7 +147,6 @@ Ensure all text components in the app are selectable.
 - [ ] Category field added to Item model
 - [ ] Category displayed as Chip in ItemCard
 - [ ] AddItemDialog updated for category input
-- [ ] All text is selectable (web accessibility)
 - [ ] CRUD operations work correctly
 - [ ] Code is clean and well-structured
 
@@ -161,6 +157,7 @@ Ensure all text components in the app are selectable.
 - [ ] UI/UX improvements
 - [ ] Code comments and documentation
 - [ ] Performance optimizations
+- [ ] All text is selectable (web accessibility)
 
 ## 🔧 Technical Notes
 
